@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/christianwinter/NetBeansProjects/RaspiRadio/src/raspiradio/radio/dab/DABInfo.java</file>
+            <file>file:/Users/christianwinter/NetBeansProjects/RaspiRadio/src/raspiradio/controller/RadioManager.java</file>
+            <file>file:/Users/christianwinter/NetBeansProjects/RaspiRadio/src/raspiradio/radio/dab/IDABRadio.java</file>
+            <file>file:/Users/christianwinter/NetBeansProjects/RaspiRadio/src/raspiradio/gui/GuiJFrame.java</file>
+            <file>file:/Users/christianwinter/NetBeansProjects/RaspiRadio/src/raspiradio/RaspiRadio.java</file>
+            <file>file:/Users/christianwinter/NetBeansProjects/RaspiRadio/src/raspiradio/radio/fm/FMRadio.java</file>
+            <file>file:/Users/christianwinter/NetBeansProjects/RaspiRadio/src/raspiradio/radio/dab/DABRadio.java</file>
+            <file>file:/Users/christianwinter/NetBeansProjects/RaspiRadio/src/raspiradio/radio/dab/DABEnsemble.java</file>
+            <file>file:/Users/christianwinter/NetBeansProjects/RaspiRadio/src/raspiradio/radio/dab/DABStation.java</file>
+        </group>
+    </open-files>
+</project-private>
