@@ -15,8 +15,7 @@ import raspiradio.radio.fm.FMRadio;
  * @author christianwinter
  */
 public class RaspiRadio {
-        public FMRadio fmr;
-	public DABRadio dabr;
+      
     /**
      * @param args the command line arguments
      */
